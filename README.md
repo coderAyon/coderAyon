@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Animated Typing Banner -->
+  <!-- Dynamic Animated Typing Banner -->
   <a href="https://github.com/coderAyon">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Ayon+Roy+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Android+App+Explorer;Open+Source+Enthusiast;Building+Modern+Web+%26+Mobile+Apps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -27,24 +27,49 @@
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ About Me
 
-```javascript
-const ayon = {
-    name: "Ayon Roy",
-    role: "Full-Stack & Android Developer",
-    location: "Dhaka, Bangladesh",
-    passions: ["Clean Code", "Modern UI/UX", "Open Source", "Software Architecture"],
-    currentFocus: ["Building scalable Web Applications", "Android Native Apps"],
-    quote: "Talk is cheap. Show me the code."
-};
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+```zsh
+ayon@devstation:~$ whoami
+❯ Ayon Roy — Software Crafter & Full-Stack Explorer
+
+ayon@devstation:~$ cat ~/identity.json
+{
+  "name": "Ayon Roy",
+  "location": "Dhaka, Bangladesh 🇧🇩",
+  "role": "Full-Stack Web & Android Developer",
+  "focus": ["Scalable Web Architecture", "Native Android Apps", "Clean UI/UX"],
+  "core_values": ["High Performance", "Maintainable Code", "Continuous Learning"]
+}
+
+ayon@devstation:~$ ./status.sh
+● Status: 🟢 Open to high-impact projects & collaborative teams
+● Active Quest: Engineering resilient web & mobile products
+● Current Fuel: Dark Roast Coffee ☕ && Deep Focus 🎧
 ```
 
-- 🔭 **Currently working on:** Innovative web applications like **Chatbot**, **Cashify**, and developer tools.
-- 📱 **Mobile Development:** Building native Android applications with **Java**.
-- 🌱 **Learning & Exploring:** Modern cloud ecosystems, microservices, and AI integrations.
-- 💬 **Ask me about:** JavaScript, React, Node.js, Java, and Android Development.
-- ⚡ **Fun Fact:** I convert coffee ☕ into clean & responsive apps!
+   </td>
+   <td width="40%" valign="top">
+
+#### 🚀 In a Nutshell
+- 🎯 **Mission:** Turning complex real-world problems into intuitive, scalable software.
+- 📱 **Mobile Craft:** Building clean, lightweight Android applications using **Java**.
+- 🌐 **Web Ecosystem:** Crafting modern, high-performance web apps with **React, Node & Express**.
+- 💡 **Engineering Mindset:** First-principles thinker, clean code advocate, and open-source enthusiast.
+
+   </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+</div>
 
 ---
 
